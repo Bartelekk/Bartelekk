@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bartelekk
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php/js/html/lua
+- 🌱 I’m currently learning js/html/lua/c#
 - 📫 How to reach me Bartełek#2998
 
 <!---
